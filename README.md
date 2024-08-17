@@ -65,13 +65,12 @@
 </section>
 
 <script>
-  var page = window.location.pathname.split('/')
-  page = page[page.length - 1]
+  var page = window.('/')
+  page = page[page.]
 
-  var nav = document.querySelector('a[href="' + page + '"]')
+  var nav = document.( + page + )
   if (nav) {
-    nav.classList.add('active')
-  }
+    nav.
 
 </script>
 
